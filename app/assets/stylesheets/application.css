@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+ #form-card {
+  width: 400px;
+  margin: 80px;
+ }
+
+ form {
+
+ }
